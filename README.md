@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey, I'm Tarang
 
-<!--
-**felnathweb-svg/felnathweb-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder of Felnath Web
 
-Here are some ideas to get you started:
+I build premium websites, modern UI/UX experiences, and high-converting digital products for brands worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- Premium Business Websites
+- Modern UI/UX Design
+- Responsive Web Development
+- Creative Animations
+- Landing Pages
+- Portfolio Websites
+- E-Commerce Experiences
+
+---
+
+## 🛠 Tech Stack
+
+HTML • CSS • JavaScript • React • GSAP • Framer Motion
+
+---
+
+## 🌍 Website
+
+[felnath.com](https://felnath.com)
+
+---
+
+## 📫 Contact
+
+- 🌐 Website: https://felnath.com
+- 📩 Email: hello@felnath.com
+
+---
+
+## ⚡ Felnath Web
+
+Creating modern digital experiences with clean design and powerful interactions.
