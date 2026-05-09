@@ -1,6 +1,6 @@
 <img src="./banner.png" width="100%">
 
-# 👋 Hey, I'm Tarang
+# 👋 Hey, I'm Sonu Luhar
 
 ### Founder of Felnath Web
 
